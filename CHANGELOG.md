@@ -5,6 +5,14 @@ website: https://lawsonhart.me/ai
 
 # AI History
 
+## 0.1.1 (2021-10-23T11:37:44)
+
+### Quick Update
+
+Started Laying out the website, and research!
+- Added Nav Bar
+- Added Top Carousel
+
 ## 0.1.0 (2021-10-23T05:47:26)
 
 ### Update

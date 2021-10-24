@@ -1,12 +1,12 @@
-html {
-    background-color: black;
+#navbar {
+    font-family: raleway;
 }
-.center {
-    text-align: center;
+#carouselPicsOfComputers {
+    padding: 100px 150px 50px 20px;
+    width:100%; 
+    height:100%;
+    margin: auto;
 }
-.frnavbar { 
-    padding-top: 5px;
-    letter-spacing: 20px;
-    size: 20px;
-    color: #5f2b2b;
+#carousel-inner {
+    border-radius: 100px;
 }
