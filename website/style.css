@@ -1,0 +1,12 @@
+html {
+    background-color: black;
+}
+.center {
+    text-align: center;
+}
+.frnavbar { 
+    padding-top: 5px;
+    letter-spacing: 20px;
+    size: 20px;
+    color: #5f2b2b;
+}
