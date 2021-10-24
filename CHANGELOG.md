@@ -9,7 +9,7 @@ website: https://lawsonhart.me/ai
 
 ### Quick Update
 
-Started Laying out the website, and research!
+Fixed the Top Layout and Admin Layout Page
 - Added Nav Bar
 - Added Top Carousel
 
