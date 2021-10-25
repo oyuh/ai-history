@@ -18,7 +18,7 @@ Added and Fixed a few Main Website things!
 
 ### Quick Update
 
-Started Laying out the website, and research!
+Fixed the Top Layout and Admin Layout Page
 - Added Nav Bar
 - Added Top Carousel
 
