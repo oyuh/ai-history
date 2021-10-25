@@ -5,6 +5,15 @@ website: https://lawsonhart.me/ai
 
 # AI History
 
+## 0.1.5 (2021-10-24T10:00:00)
+
+### First "Big" Update
+
+Added and Fixed a few Main Website things!
+- Added my first Artificial Bot.
+- Optimized my VPS for hosting.
+- Changed old README.md to a good README.md
+
 ## 0.1.1 (2021-10-23T11:37:44)
 
 ### Quick Update
