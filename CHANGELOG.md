@@ -5,6 +5,14 @@ website: https://lawsonhart.me/ai
 
 # AI History
 
+## 0.2.0 (2021-11-20T11:38:00)
+
+### First Application Added
+
+- Modulized the API
+- Optimized my VPS for hosting.
+- Added a pathfinding AI, https://lawsonhart.me/ai/pathfinding
+
 ## 0.1.5 (2021-10-24T10:00:00)
 
 ### First "Big" Update

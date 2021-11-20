@@ -1,0 +1,4 @@
+- finish layout
+- clean up code
+- add all of the text
+- add all of the applications
