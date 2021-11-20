@@ -21,29 +21,16 @@ AI History uses a Bunch of NodeJS libraries and Technologies:
 
 ## Installation
 
-Dillinger requires [Node.js](https://nodejs.org/) v14+ to run.
+API requires [Node.js](https://nodejs.org/) v14+ to run.
 
 Install the dependencies and devDependencies and start the server.
 
 ```sh
 git clone https://github.com/oyuh/ai-history.git
 cd ai-history
-cd Script1
+cd ai-api
 npm i -d
-```
-
-#### Building for source
-
-For production release:
-
-```sh
-gulp build --prod
-```
-
-Generating pre-built zip archives for distribution:
-
-```sh
-gulp build dist --prod
+npm run api-norm
 ```
 
 
